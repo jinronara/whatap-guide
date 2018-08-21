@@ -1,40 +1,40 @@
 # 와탭 모니터링 소개 \(준비 중\)
 
-### 사업분야 {#user-content-사업분야}
+## 사업분야 {#user-content-사업분야}
 
-#### 서비스 모니터링 {#user-content-서비스-모니터링}
+### 서비스 모니터링 {#user-content-서비스-모니터링}
 
-#### 구축형 모니터링 {#user-content-구축형-모니터링}
+### 구축형 모니터링 {#user-content-구축형-모니터링}
 
-#### 성능 컨설팅 {#user-content-성능-컨설팅}
+### 성능 컨설팅 {#user-content-성능-컨설팅}
 
-### 제품 개요 {#user-content-제품-개요}
+## 제품 개요 {#user-content-제품-개요}
 
-#### 통합 모니터링 구성 {#user-content-통합-모니터링-구성}
+### 통합 모니터링 구성 {#user-content-통합-모니터링-구성}
 
-#### 서비스 생명주기에 따른 모니터링 {#user-content-서비스-생명주기에-따른-모니터링}
+### 서비스 생명주기에 따른 모니터링 {#user-content-서비스-생명주기에-따른-모니터링}
 
-### 지원 플랫폼 {#user-content-지원-플랫폼}
+## 지원 플랫폼 {#user-content-지원-플랫폼}
 
-### 차별성 {#user-content-차별성}
+## 차별성 {#user-content-차별성}
 
-#### 와탭 모니터링 구조 {#user-content-와탭-모니터링-구조}
+### 와탭 모니터링 구조 {#user-content-와탭-모니터링-구조}
 
-#### 클라우드 환경을 고려한 확장구조 {#user-content-클라우드-환경을-고려한-확장구조}
+### 클라우드 환경을 고려한 확장구조 {#user-content-클라우드-환경을-고려한-확장구조}
 
-#### 멀티 리전 지원 {#user-content-멀티-리전-지원}
+### 멀티 리전 지원 {#user-content-멀티-리전-지원}
 
-#### 멀티 테넌트 지원 {#user-content-멀티-테넌트-지원}
+### 멀티 테넌트 지원 {#user-content-멀티-테넌트-지원}
 
-#### 확장 가능형 구조 {#user-content-확장-가능형-구조}
+### 확장 가능형 구조 {#user-content-확장-가능형-구조}
 
-#### 데이터 유실 방지 {#user-content-데이터-유실-방지}
+### 데이터 유실 방지 {#user-content-데이터-유실-방지}
 
-#### 통계 저장 구조 {#user-content-통계-저장-구조}
+### 통계 저장 구조 {#user-content-통계-저장-구조}
 
-#### 아카이빙 저장 {#user-content-아카이빙-저장}
+### 아카이빙 저장 {#user-content-아카이빙-저장}
 
-#### 데이터 암호화 {#user-content-데이터-암호화}
+### 데이터 암호화 {#user-content-데이터-암호화}
 
 **암호화 전송 레이어**
 
@@ -42,37 +42,37 @@
 
 **파라메타 암호화**
 
-#### 재기동 없는 설치 방식 지원 {#user-content-재기동-없는-설치-방식-지원}
+### 재기동 없는 설치 방식 지원 {#user-content-재기동-없는-설치-방식-지원}
 
-#### 모바일 어플리케이션 제공 {#user-content-모바일-어플리케이션-제공}
+### 모바일 어플리케이션 제공 {#user-content-모바일-어플리케이션-제공}
 
-### 주요 고객 {#user-content-주요-고객}
+## 주요 고객 {#user-content-주요-고객}
 
-#### 어플리케이션 모니터링 {#user-content-어플리케이션-모니터링}
+### 어플리케이션 모니터링 {#user-content-어플리케이션-모니터링}
 
-#### 인프라 모니터링 {#user-content-인프라-모니터링}
+### 인프라 모니터링 {#user-content-인프라-모니터링}
 
-### 성공사례 {#user-content-성공사례}
+## 성공사례 {#user-content-성공사례}
 
-#### 클라우드 지원 사례 {#user-content-클라우드-지원-사례}
+### 클라우드 지원 사례 {#user-content-클라우드-지원-사례}
 
-#### 은행권 사례 {#user-content-은행권-사례}
+### 은행권 사례 {#user-content-은행권-사례}
 
-#### 통신사 사례 {#user-content-통신사-사례}
+### 통신사 사례 {#user-content-통신사-사례}
 
-### 경쟁사 비교 {#user-content-경쟁사-비교}
+## 경쟁사 비교 {#user-content-경쟁사-비교}
 
-### 설치 방식 {#user-content-설치-방식}
+## 설치 방식 {#user-content-설치-방식}
 
-#### SaaS {#user-content-saas}
+### SaaS {#user-content-saas}
 
-#### On-Premise {#user-content-on-premise}
+### On-Premise {#user-content-on-premise}
 
-#### Hybrid {#user-content-hybrid}
+### Hybrid {#user-content-hybrid}
 
-### 서비스 소개 {#user-content-서비스-소개}
+## 서비스 소개 {#user-content-서비스-소개}
 
-#### 어플리케이션 모니터링 {#user-content-어플리케이션-모니터링-1}
+### 어플리케이션 모니터링 {#user-content-어플리케이션-모니터링-1}
 
 **주요기능 목록**
 
@@ -128,7 +128,7 @@
 
 **Open API**
 
-#### 인프라 모니터링 {#user-content-인프라-모니터링-1}
+### 인프라 모니터링 {#user-content-인프라-모니터링-1}
 
 **주요기능 목록**
 
@@ -156,7 +156,6 @@
 
 **담당자 내역 입력**
 
-#### 데이터베이스 모니터링 {#user-content-데이터베이스-모니터링}
+### 데이터베이스 모니터링 {#user-content-데이터베이스-모니터링}
 
 **주요 기능 목록**
-
