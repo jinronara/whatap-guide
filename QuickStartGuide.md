@@ -10,8 +10,6 @@
 
 ![](.gitbook/assets/10.png)
 
-  
-
 ### Java 애플리케이션 모니터링 {#user-content-java-애플리케이션-모니터링}
 
 #### javaagent + onetime attach {#user-content-javaagent-onetime-attach}
@@ -47,23 +45,23 @@ Windows에 진행하고 있다면 5장의 Java 애플리케이션 모니터링�
 
 **프로젝트 생성**
 
-[![20](https://github.com/jinronara/deleteme_2/raw/master/images/20.png)](https://github.com/jinronara/deleteme_2/blob/master/images/20.png)
+![](.gitbook/assets/20.png)
 
 서버를 등록하기 위해 우선 프로젝트를 생성합니다. 추가 버튼을 선택하면 아래와 같이 프로젝트 생성 창이 나타납니다. Java 아이콘을 선택한 뒤, 희망하는 프로젝트명과 데이터 서버 지역\(Region\), 소속하게 될 그룹을 선택한 뒤 프로젝트를 생성합니다.
 
-[![30](https://github.com/jinronara/deleteme_2/raw/master/images/30.png)](https://github.com/jinronara/deleteme_2/blob/master/images/30.png)
+![](.gitbook/assets/30.png)
 
 이후, 생성된 프로젝트를 클릭하여 관리 화면에 진입합니다
 
 **라이선스 발급**
 
-[![40](https://github.com/jinronara/deleteme_2/raw/master/images/40.png)](https://github.com/jinronara/deleteme_2/blob/master/images/40.png)
+![](.gitbook/assets/40.png)
 
 프로젝트 관리화면에서는 우선적으로 라이선스를 발급 받습니다. 라이선스 키는 프로젝트별로 귀속되기 때문에, 유출되거나 배포되어서는 안됩니다. 반드시 본인 프로젝트에 서버를 등록할 때에만 이용하시기 바랍니다.
 
 **에이전트 다운로드**
 
-[![50](https://github.com/jinronara/deleteme_2/raw/master/images/50.png)](https://github.com/jinronara/deleteme_2/blob/master/images/50.png)
+![](.gitbook/assets/50.png)
 
 라이선스를 발급 받은 후에는 ‘에이전트 파일 다운로드’ 버튼이 활성화 되었음을 확인할 수 있습니다. 해당 버튼을 눌러 와탭 에이전트 파일을 다운로드 받습니다.
 
@@ -144,11 +142,11 @@ AttachAgent Success :  [2583] org.apache.catalina.startup.Bootstrap start
 
 **모니터링 확인**
 
-[![60](https://github.com/jinronara/deleteme_2/raw/master/images/60.png)](https://github.com/jinronara/deleteme_2/blob/master/images/60.png)
+![](.gitbook/assets/60.png)
 
-와탭 프로젝트로 돌아와 등록된 서버를 확인 합니다. 
+와탭 프로젝트로 돌아와 등록된 서버를 확인 합니다.
 
-[![70](https://github.com/jinronara/deleteme_2/raw/master/images/70.png)](https://github.com/jinronara/deleteme_2/blob/master/images/70.png)
+![](.gitbook/assets/70.png)
 
 정상적으로 등록되어 있는지를 확인하기 위해서는 프로젝트 메뉴 좌측에 위치한 ‘서버’ 메뉴를 클릭하여 들어온 후, 해당 서버의 정보를 확인합니다. 해당 서버 우측의 More 메뉴의 Boot Environment 항목을 선택한 뒤 나오는 정보 중 whatap.name과 whatap.type 항목을 확인합니다.
 
@@ -188,23 +186,23 @@ AttachAgent Success :  [2583] org.apache.catalina.startup.Bootstrap start
 
 **프로젝트 생성**
 
-[![20](https://github.com/jinronara/deleteme_2/raw/master/images/20.png)](https://github.com/jinronara/deleteme_2/blob/master/images/20.png)
+![](.gitbook/assets/20.png)
 
-서버를 등록하기 위해 우선 프로젝트를 생성합니다. 추가 버튼을 선택하면 아래와 같이 프로젝트 생성 창이 나타납니다. Java 아이콘을 선택한 뒤, 희망하는 프로젝트명과 데이터 서버 지역\(Region\), 소속하게 될 그룹을 선택한 뒤 프로젝트를 생성합니다. 
+서버를 등록하기 위해 우선 프로젝트를 생성합니다. 추가 버튼을 선택하면 아래와 같이 프로젝트 생성 창이 나타납니다. Java 아이콘을 선택한 뒤, 희망하는 프로젝트명과 데이터 서버 지역\(Region\), 소속하게 될 그룹을 선택한 뒤 프로젝트를 생성합니다.
 
-[![30](https://github.com/jinronara/deleteme_2/raw/master/images/30.png)](https://github.com/jinronara/deleteme_2/blob/master/images/30.png)
+![](.gitbook/assets/30.png)
 
 이후, 생성된 프로젝트를 클릭하여 관리 화면에 진입합니다
 
 **라이선스 발급**
 
-[![40](https://github.com/jinronara/deleteme_2/raw/master/images/40.png)](https://github.com/jinronara/deleteme_2/blob/master/images/40.png)
+![](.gitbook/assets/40.png)
 
 프로젝트 관리화면에서는 우선적으로 라이선스를 발급 받습니다. 라이선스 키는 프로젝트별로 귀속되기 때문에, 유출되거나 배포되어서는 안됩니다. 반드시 본인 프로젝트에 서버를 등록할 때에만 이용하시기 바랍니다.
 
 **에이전트 다운로드**
 
-[![50](https://github.com/jinronara/deleteme_2/raw/master/images/50.png)](https://github.com/jinronara/deleteme_2/blob/master/images/50.png)
+![](.gitbook/assets/50.png)
 
 라이선스를 발급 받은 후에는 ‘에이전트 파일 다운로드’ 버튼이 활성화 되었음을 확인할 수 있습니다. 해당 버튼을 눌러 와탭 에이전트 파일을 다운로드 받습니다.
 
@@ -267,11 +265,11 @@ WhaTap Agent version 0.3.9 20161115
 
 **모니터링 확인**
 
-[![60](https://github.com/jinronara/deleteme_2/raw/master/images/60.png)](https://github.com/jinronara/deleteme_2/blob/master/images/60.png)
+![](.gitbook/assets/60.png)
 
 와탭 프로젝트로 돌아와 등록된 서버를 확인 합니다.
 
-[![70](https://github.com/jinronara/deleteme_2/raw/master/images/70.png)](https://github.com/jinronara/deleteme_2/blob/master/images/70.png)
+![](.gitbook/assets/70.png)
 
 정상적으로 등록되어 있는지를 확인하기 위해서는 프로젝트 메뉴 좌측에 위치한 ‘서버’ 메뉴를 클릭하여 들어온 후, 해당 서버의 정보를 확인합니다. 해당 서버 우측의 더보기 메뉴의 부트 환경 항목을 선택한 뒤 나오는 정보 중 whatap.name과 whatap.type 항목을 확인합니다.
 
@@ -291,17 +289,17 @@ WhaTap Agent version 0.3.9 20161115
 
 **프로젝트 생성**
 
-[![20](https://github.com/jinronara/deleteme_2/raw/master/images/20.png)](https://github.com/jinronara/deleteme_2/blob/master/images/20.png)
+![](.gitbook/assets/20.png)
 
-서버를 등록하기 위해 우선 프로젝트를 생성합니다. 추가 버튼을 선택하면 아래와 같이 프로젝트 생성 창이 나타납니다. Java 아이콘을 선택한 뒤, 희망하는 프로젝트명과 데이터 서버 지역\(Region\), 소속하게 될 그룹을 선택한 뒤 프로젝트를 생성합니다. 
+서버를 등록하기 위해 우선 프로젝트를 생성합니다. 추가 버튼을 선택하면 아래와 같이 프로젝트 생성 창이 나타납니다. Java 아이콘을 선택한 뒤, 희망하는 프로젝트명과 데이터 서버 지역\(Region\), 소속하게 될 그룹을 선택한 뒤 프로젝트를 생성합니다.
 
-[![80](https://github.com/jinronara/deleteme_2/raw/master/images/80.png)](https://github.com/jinronara/deleteme_2/blob/master/images/80.png)
+![](.gitbook/assets/80.png)
 
 이후, 생성된 프로젝트를 클릭하여 관리 화면에 진입합니다
 
 **라이선스 발급**
 
-[![40](https://github.com/jinronara/deleteme_2/raw/master/images/40.png)](https://github.com/jinronara/deleteme_2/blob/master/images/40.png)
+![](.gitbook/assets/40.png)
 
 프로젝트 관리화면에서는 우선적으로 라이선스를 발급 받습니다. 라이선스 키는 프로젝트별로 귀속되기 때문에, 유출되거나 배포되어서는 안됩니다. 반드시 본인 프로젝트에 서버를 등록할 때에만 이용하시기 바랍니다.
 
@@ -416,7 +414,7 @@ PHP 모니터링 서비스를 구성하는 각 파일의 역할은 다음과 같
 
 [![20](https://github.com/jinronara/deleteme_2/raw/master/images/20.png)](https://github.com/jinronara/deleteme_2/blob/master/images/20.png)
 
-서버를 등록하기 위해 우선 프로젝트를 생성합니다. 추가 버튼을 선택하면 아래와 같이 프로젝트 생성 창이 나타납니다. Java 아이콘을 선택한 뒤, 희망하는 프로젝트명과 데이터 서버 지역\(Region\), 소속하게 될 그룹을 선택한 뒤 프로젝트를 생성합니다. 
+서버를 등록하기 위해 우선 프로젝트를 생성합니다. 추가 버튼을 선택하면 아래와 같이 프로젝트 생성 창이 나타납니다. Java 아이콘을 선택한 뒤, 희망하는 프로젝트명과 데이터 서버 지역\(Region\), 소속하게 될 그룹을 선택한 뒤 프로젝트를 생성합니다.
 
 [![100](https://github.com/jinronara/deleteme_2/raw/master/images/100.png)](https://github.com/jinronara/deleteme_2/blob/master/images/100.png)
 
@@ -805,4 +803,3 @@ sudo service whatap-infra restart
 **로그 확인**
 
 **모니터링 확인**
-

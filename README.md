@@ -10,4 +10,5 @@
 | 0.7.1 | 2017.12.14 통합에 그룹 사용 추가 |
 | 0.7.2 | 2018.02.06 일부 내용 업데이트 및 삭제, Telegram, Open API 업데이트 |
 | 0.7.3 | 2018.08.20 Asciidoc 포팅 |
+|       | git@gitlab.whatap.io:whatap-inc/whatap-guide.git |
 | 0.7.4 | 2018.08.21 Gitbook 포팅\(중\) |
